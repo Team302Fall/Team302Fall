@@ -15,12 +15,12 @@ Portable Weather Hub Project:
 - To create a mobile weather station that captures precise sensory data and translates it into actionable outputs, addressing defined tasks with innovation and collaborative efficiency.
 
 ### <u> Communication Channels</u>
-| Name              | First Communication Choice | Second Communication Choice | Third Communication Choice |
-|-------------------|----------------------------|-----------------------------|----------------------------|
-| Kyle Chin         | Discord                    | Text                        | Email                      |
-| Damien D' Amato   | Text                       | Discord                     | Email                      |
-| Enrique Cervantes | Discord                    | Text                        | Email                      |
-| Rishik Atluri     | Snapchat                   | Discord                     | Email                      |
+| Name | First Communication Choice | Second Communication Choice | Third Communication Choice |
+|------|----------------------------|-----------------------------|----------------------------|
+| Kyle Chin | Discord| Text | Email |
+| Damien D' Amato | Text | Discord | Email |
+| Enrique Cervantes | Discord | Text | Email |
+| Rishik Atluri | Snapchat | Discord | Email |
 
 ## <u> Communication Procedures </u>
 Our team will be communicating primarily through Discord. For meetings that require all members to be present, in person meeting is preferable but if all members can not attend, such meeting will be done via Zoom or a Discord video call.
