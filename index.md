@@ -15,6 +15,7 @@ Portable Weather Hub Project:
 - To create a mobile weather station that captures precise sensory data and translates it into actionable outputs, addressing defined tasks with innovation and collaborative efficiency.
 
 ### <u> Communication Channels</u>
+
 | Name | First Communication Choice | Second Communication Choice | Third Communication Choice |
 |------|----------------------------|-----------------------------|----------------------------|
 | Kyle Chin | Discord| Text | Email |
