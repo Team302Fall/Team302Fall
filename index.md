@@ -35,6 +35,25 @@ In order for the team to conduct meetings, a text reminder will be sent out on t
 |--------|--------------|-------|-------|
 | Kyle | kc | kachin1@asu.edu | (240)-485-7446 |
 | Rishik | ra | ratluri1@asu.edu | (480)-434-3743 |
+| Damien | dd | ddamato2@asu.edu | (530)-387-1654 |
+| Enrique | EC | evcervan@asu.edu | (520)-406-9023 |
+
+| Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+|------|--------|--------|---------|-----------|----------|--------|----------|
+| 8:00 AM | kc | kc | kc | kc | kc | kc | kc |
+| 9:00 AM | kc | kc | kc | kc | ra kc | kc | kc |
+| 10:00 AM | kc | EC kc |  | kc | ra kc | ec kc | kc |
+| 11:00 AM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| 12:00 AM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| 1:00 PM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| 2:00 PM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| 3:00 PM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| 4:00 PM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| 5:00 PM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| 6:00 PM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| 7:00 PM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| 8:00 PM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| 9:00 PM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 
 
 TBA.....
