@@ -43,7 +43,7 @@ In order for the team to conduct meetings, a text reminder will be sent out on t
 | 8:00 AM | kc | kc | kc | kc | kc | kc | kc |
 | 9:00 AM | kc | kc | kc | kc | ra kc | kc | kc |
 | 10:00 AM | kc | EC kc |  | kc | ra kc | ec kc | kc |
-| 11:00 AM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| 11:00 AM | kc | kc | ra | kc | ra | ra kc | kc |
 | 12:00 AM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | 1:00 PM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | 2:00 PM | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
