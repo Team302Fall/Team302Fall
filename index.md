@@ -11,9 +11,19 @@ Portable Weather Hub Project:
 - Maintain effective and consistent communication within the team to ensure seamless collaboration.
 - Strive to surpass project deadlines by working towards early completion, showcasing our commitment to efficiency and excellence.
 
+### <u>Product Mission Statement</u>
+- To create a mobile weather station that captures precise sensory data and translates it into actionable outputs, addressing defined tasks with innovation and collaborative efficiency.
 
-Introduction
+### <u> Communication Channels</u>
+| Name              | First Communication Choice | Second Communication Choice | Third Communication Choice |
+|-------------------|----------------------------|-----------------------------|----------------------------|
+| Kyle Chin         | Discord                    | Text                        | E-mail                     |
+| Damien D' Amato   | Text                       | Discord                     | E-mail                     |
+| Enrique Cervantes | Discord                    | Text                        | E-mail                     |
+| Rishik Atluri     | Snapchat                   | Discord                     | E-mail                     |
 
+## <u> Communication Procedures </u>
+Our team will be communicating primarily through Discord. For meetings that require all members to be present, in person meeting is preferable but if all members can not attend, such meeting will be done via Zoom or a Discord video call.
 TBA.....
 
 
