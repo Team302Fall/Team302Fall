@@ -17,10 +17,10 @@ Portable Weather Hub Project:
 ### <u> Communication Channels</u>
 | Name              | First Communication Choice | Second Communication Choice | Third Communication Choice |
 |-------------------|----------------------------|-----------------------------|----------------------------|
-| Kyle Chin         | Discord                    | Text                        | E-mail                     |
-| Damien D' Amato   | Text                       | Discord                     | E-mail                     |
-| Enrique Cervantes | Discord                    | Text                        | E-mail                     |
-| Rishik Atluri     | Snapchat                   | Discord                     | E-mail                     |
+| Kyle Chin         | Discord                    | Text                        | Email                      |
+| Damien D' Amato   | Text                       | Discord                     | Email                      |
+| Enrique Cervantes | Discord                    | Text                        | Email                      |
+| Rishik Atluri     | Snapchat                   | Discord                     | Email                      |
 
 ## <u> Communication Procedures </u>
 Our team will be communicating primarily through Discord. For meetings that require all members to be present, in person meeting is preferable but if all members can not attend, such meeting will be done via Zoom or a Discord video call.
