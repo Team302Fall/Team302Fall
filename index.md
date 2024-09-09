@@ -64,6 +64,17 @@ In order for the team to conduct meetings, a text reminder will be sent out on t
 | Assignment leader | Coordinates the team’s work on a given assignment to Canvas before the due date. Ensures all aspect of the project are completed |
 | Project monitor | Tracks the team’s progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
+For our team, project roles are to be picked voluntarily, and once assigned, they are to remain in that role unless there is an accommodation that is required that prevents them from satisfying said position. This should be communicated in advance. In such a scenario, a consensus will be reached among the team members for who is best capable to fulfill the role switch or the responsibilities of the role in question can be distributed among the different roles. However, if a role switch is not required but only assistance is, any role is allowed to assist at any time. 
+
+Projects will be kept on track through the use of a Gantt chart via Smartsheet. And the team leader will be responsible for ensuring that all requirements are met among the team members. 
+
+The current roles for the project are as follows:
+- Meeting leader - Enrique 
+- Meeting recorder - Kyle 
+- Assignment leader - Damien
+- Project monitor - Rishik
+
+
 TBA.....
 
 
