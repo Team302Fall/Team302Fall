@@ -74,6 +74,29 @@ The current roles for the project are as follows:
 - Assignment leader - Damien
 - Project monitor - Rishik
 
+### <u>Team Coordination & Accountability</u>
+To complete assignments as a team, we will begin with a general meeting about what needs to be done. Outside of hard scheduled meet times, all team members can work on the project at any time. However, the assignment must be completed the day before, including the quality check. The assignment will then be submitted by the Meeting Recorder. To ensure the assignment is completed successfully all members will be required to report on which portion of the assignment they will best be able to assist. However, the final say will go to the Assignment Leader. Making sure everyone on the team is informed of the design review will fall under the task of the Project Monitor. 
+
+For things referring to accountability and team conflict, it will be subject to the Conflict Resolution Protocol. 
+
+### <u>TConflict Recognition & Resolution</u>
+The team members agree to the following process for resolving conflicts with other team members: 
+
+*Conflict Resolution Protocol*
+
+1. If, by 48 hours of initial contact by team leader, any member does not reply, they are to be removed from the corresponding assignment 
+
+2. If, after two repeated violations of [1], the violating member is to be considered a missing participant, and to be removed indefinitely via pink slip until contact is reestablished. Assuring this on assignments shall fall under the jurisdiction of the Meeting Recorder
+
+3. If, in the conditions where there is a conflict among members, a meeting will be scheduled at the next available time to resolve said conflict. Planning meetings will be done by the Meeting Leader position and hosted on the platform Zoom
+
+4. Conflicts regarding project course decisions are to be voted anonymously. If consensus is unable to be met during the meet times established by the Project Planner, decision making power shall be deferred to the Team Leader Position
+
+5. For intrapersonal team conflict, Article 3 is invoked at the next possible meeting time disregarding any preset assignments. If there is no resolution to which all parties are satisfied, it is to be referred to the professor or TA of the course for further action. This can be done by any member. 
+
+6. Team decisions related to conflict resolution and student participation are to be made via vote, including the approval of this protocol which shall be done unanimously.
+
+7. Any debate to change to this protocol can be started by any present participant
 
 TBA.....
 
