@@ -55,6 +55,14 @@ In order for the team to conduct meetings, a text reminder will be sent out on t
 | 8:00 PM |  | dd ra |  | dd ra | dd | dd |  |
 | 9:00 PM | ec | ec | ec | ec | ec |  |  |
 
+### <u>Roles & Responsibilities</u>
+
+| Role | Duties |
+|------|--------|
+| Meeting leader | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting |
+| Meeting recorder | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned. Submits assignments. |
+| Assignment leader | Coordinates the team’s work on a given assignment to Canvas before the due date. Ensures all aspect of the project are completed |
+| Project monitor | Tracks the team’s progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 TBA.....
 
