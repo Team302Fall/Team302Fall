@@ -18,7 +18,7 @@ The temperature sensor would monitor the ambient air temperature while the moist
 
 ![](micro_greenhouse.jpg)
 
-*A micro greenhouse blueprint for the conservation sector moisture sensor with a humidity sensor that has a motor that is powered by rechargeable battery with a plant aesthetic that rotates.*
+Morphological generated prompt: *A micro greenhouse blueprint for the conservation sector moisture sensor with a humidity sensor that has a motor that is powered by rechargeable battery with a plant aesthetic that rotates.*
 
 The moisture sensor would track soil moisture levels to ensure the plants inside gets enough water, while the humidity sensor would monitor the air moisture to keep the environment optimal for plant growth. Data from these sensors could trigger alerts or automatic adjustments like turning on a small fan or adding water. The micro greenhouse could also have a small display or interface to show real-time data on moisture and humidity levels.
 
@@ -26,7 +26,7 @@ The moisture sensor would track soil moisture levels to ensure the plants inside
 
 ![](pump_pic.jpg)
 
-*An environmental measuring device for the veggie farming sector that utilizes a temp and humidity sensor, that has a pump powered by solar and rechargeable battery with a minimalist aesthetic.*
+Morphological generated prompt: *An environmental measuring device for the veggie farming sector that utilizes a temp and humidity sensor, that has a pump powered by solar and rechargeable battery with a minimalist aesthetic.*
 
 The temp sensor would track air temperature ensuring that the crops remain within the ideal temperature ranges for growth. The humidity sensor would help manage air moisture which is crucial for many vegetable crops. The pump would be activated to irrigate the crops or to mist the air if humidity levels drop too low.
 
