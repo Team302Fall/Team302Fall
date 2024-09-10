@@ -2,6 +2,8 @@
 Portable Weather Hub Project:
 ---
 # Team 302 EGR 314 Portable Weather Project
+Damien, Kyle, Rishik, Enrique
+
 ## Home
 
 [Team Organization](TeamOrganization/TeamOrgSubpage.md)
@@ -12,9 +14,3 @@ Portable Weather Hub Project:
 
 [Presentation](Presentation1/Team302PresentationVideo.md)
 
-
-
-## Introduction
-Egr 314 Fall 2024
-
-Damien, Kyle, Rishik, Enrique
