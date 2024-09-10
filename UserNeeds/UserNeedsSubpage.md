@@ -195,3 +195,105 @@ A High-precision 3-in-1 wireless weather sensor. Measures the temperature, humid
 |Not very good. Wind speed sensor reads low. The weather forecasting feature is wrong more often than not. The display is too bright and the history is annoying as it continually flips from one sensor to another. If I could return this I would but have had for over a month so can't. | 1. Accurate wind speed sensor 2. Return policy|
 
 ***
+
+# Jamboard/Sticky Notes:
+To assign appropriate ranks to each need, our team employed an approach that prioritizes needs which surfaced more frequently in user interviews and were assigned higher ranks. For instance, if product reliability was a common concern mentioned by 80% of users, it received a correspondingly higher weight. Additionally, qualitative data was considered to fine-tune these weights. If a particular need was strongly emphasized by users, it was granted a higher weight, even if it wasn't the most frequently mentioned.Our team decided to rank the ideas into two categories: passive and active ranking depending on the functionalities of the ideas.
+
+**Ranking: Active**
+
+![image](https://github.com/user-attachments/assets/157ffaff-6cde-47c7-b2da-584bc9117620)
+
+**Ranking: Passive**
+
+![image](https://github.com/user-attachments/assets/e821bba7-b7a8-4c8e-b3ad-19ecb072bcba)
+
+# Develop Requirements
+## 1. User Cases: 
+
+   **User Case 1:** Residential User
+
+   **Scenerio:** A homeowner wants to monitor local weather conditions in their backyard.
+   
+   **Venue:** A suburban residential area
+
+   **Interaction:** 
+   
+   * **Installation:** The user installs the weather station on a pole or roof, ensuring it has a clear view of the sky.
+   * **Daily Monitoring:** The user checks the device’s LCD screen or mobile app to see current temperature, humidity, and wind speed before leaving for work.
+   * **Alerts:** The user receives alerts on their smartphone if a significant weather change is detected, such as a sudden drop in temperature or high wind speeds, helping them take necessary precautions.
+
+   **Outcome:** The user is able to plan their day better, stay informed about potential weather changes, and ensure the safety of their property.
+
+   **User Case 2:** Agricultural User
+
+   **Scenerio:** A farmer wants to optimize crop irrigation and monitor weather conditions for better yield management.
+   
+   **Venue:** A large farm in a rural area.
+
+   **Interaction:** 
+   
+   * **Installation:** The farmer installs multiple weather stations across different sections of the farm to monitor microclimates.
+   * **Irrigation Control:** The farmer uses real-time data from the weather station to adjust irrigation schedules, ensuring crops receive the right amount of water based on current conditions.
+   * **Historical Data Analysis:** The farmer accesses historical weather data through a web interface to analyze trends and make informed decisions for future planting seasons.
+
+   **Outcome:** The farmer is able to conserve water, optimize crop growth, and improve overall yield by using precise weather data.
+ 
+## 2. Product Requirements Document:
+
+   **1. Introduction**
+   * **Product Overview:** The weather station device is designed to provide accurate, real-time weather data, suitable for various applications including residential, agricultural, and commercial uses.
+   * **Objectives:** The primary goals are to deliver precise weather data, ensure ease of installation and use, and offer customization options to meet diverse user needs.
+
+   **2. Product Features**
+   * **Sensors:** Temperature, humidity, wind speed, barometric pressure, rain gauge, UV index.
+   * **Connectivity:** Wi-Fi, Bluetooth, or LoRa for long-range communication.
+   * **Power Source:** Solar power with battery backup, or AC power with an optional battery.
+   * **Display:** High-contrast LCD screen, mobile app integration, and web interface.
+   * **Data Storage:** Local storage with SD card, and cloud integration for remote access.
+
+   **3. Design Aspects**
+
+   **Hardware / Product Design**
+   * **Durability:** The device casing will be made of UV-resistant, weatherproof materials such as ABS plastic or polycarbonate to withstand extreme temperatures, rain, snow, and UV exposure.
+   * **Modular Design:** The device will feature a modular design, allowing users to add or remove sensors based on their specific needs.
+   * **Power Management:** Efficient power management will be a priority, with options for solar power and low-power modes to extend battery life.
+   * **Mounting Options:** Multiple mounting options, including poles, walls, and roofs, with a 360-degree swivel base for optimal sensor placement.
+
+   **Software / Functionality**
+   * **Data Processing:**  The software will process raw sensor data to provide accurate readings, with algorithms to filter noise and compensate for environmental factors.
+   * **Real-Time Monitoring:** Users will receive real-time updates via the mobile app or web interface, with data refreshed at configurable intervals (e.g., every 5 minutes, 10 minutes).
+   * **Historical Data Analysis:** The software will store historical data and provide tools for trend analysis, including graphs and charts accessible through the app or web interface.
+   * **Integration:** Compatibility with smart home systems (e.g., Google Home, Amazon Alexa) and agricultural management platforms.
+   * **Firmware Updates:** Over-the-air (OTA) firmware updates to ensure the device stays up-to-date with the latest features and security patches.
+
+   **Interactivity & User Experience**
+   * **User Interface:** The mobile app and web interface will feature an intuitive design with customizable dashboards, allowing users to view only the data that matters most to them.
+   * **Notifications:** Users can set custom alerts for specific weather conditions, such as frost warnings or high winds, delivered via push notifications or SMS.
+   * **Voice Control:** Integration with voice assistants like Amazon Alexa and Google Assistant for hands-free interaction.
+   * **Installation Wizard:** A step-by-step setup guide in the app to simplify the installation process, including sensor calibration and connectivity setup.
+
+   **Customization**
+   * **Sensor Configuration:** Users can customize which sensors are active and configure thresholds for alerts.
+   * **Dashboard Layout:** The app and web interface will allow users to customize the layout of their dashboards, choosing which data is displayed and in what format (e.g., graphs, tables).
+   * **Themes and Skins:** The interface will offer different color themes and skins to suit user preferences.
+   * **API Access:** Advanced users will have API access to integrate the weather station data with other applications or services.
+
+   **Manufacturing**
+   * **Component Sourcing:** High-quality components will be sourced from reputable suppliers to ensure reliability and longevity. The device will be assembled in an ISO 9001-certified facility to maintain high manufacturing standards.
+   * **Environmental Impact:** The design will prioritize eco-friendly materials and processes, such as using recycled plastics and reducing e-waste through modular upgrades rather than full replacements.
+   * **Quality Control:** Rigorous testing protocols will be in place to ensure each unit meets performance specifications, including calibration of sensors and stress testing for durability.
+
+   **Safety**
+   * **Electrical Safety:** The device will comply with international safety standards such as IEC 60950-1 (Information Technology Equipment Safety) to ensure it is safe to use in various environments.
+   * **Weather Resistance:** The enclosure will meet IP66 or IP67 standards for water and dust resistance, ensuring the device can operate safely in harsh weather conditions.
+   * **UV Protection:** The materials used will be UV-resistant to prevent degradation from prolonged sun exposure, ensuring long-term durability.
+   * **Safety Certifications:** The product will undergo the needed certifications depending on the market in accordance with the stakeholders/customers.
+   * **Over-Temperature Protection:** The device will include thermal sensors to monitor internal temperature, automatically shutting down or reducing power usage if overheating is detected.
+
+
+
+
+
+    
+  
+
