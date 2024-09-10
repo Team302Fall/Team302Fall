@@ -1,10 +1,4 @@
-
----
-Portable Weather Hub Project:
----
-
-# Home
-## Team Organization
+# Team Organization
 ### <u>Team Goals</u>
 - Conceptualize and create a product that demonstrates a notable advancement in complexity compared to our previous project in EGR 304.
 - Proficiently apply our expertise in PCB design, aiming to enhance our competence using the industry-standard PCB design tool, Cadence.
