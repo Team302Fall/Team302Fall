@@ -12,7 +12,6 @@ Portable Weather Hub Project:
 
 [Presentation](Presentation1/Team302PresentationVideo.md)
 
-TBA.....
 
 
 ## Introduction
