@@ -74,7 +74,7 @@ To complete assignments as a team, we will begin with a general meeting about wh
 
 For things referring to accountability and team conflict, it will be subject to the Conflict Resolution Protocol. 
 
-### <u>TConflict Recognition & Resolution</u>
+### <u>Conflict Recognition & Resolution</u>
 The team members agree to the following process for resolving conflicts with other team members: 
 
 *Conflict Resolution Protocol*
@@ -93,10 +93,11 @@ The team members agree to the following process for resolving conflicts with oth
 
 7. Any debate to change to this protocol can be started by any present participant
 
-TBA.....
+### <u>Signatures</u>
 
-
-## Introduction
-Egr 314 Fall 2024
-
-Damien, Kyle, Rishik, Enrique
+| Printed Name| Signature | Date |
+|--------|--------------|-------|
+| Damien D'amato | *Damien D'Amato* | 08/26/2024 |
+| Kyle Chin | *Kyle Chin* | 08/28/2024 |
+| Rishik Atluri | Rishik Atluri | 08/28/2024 |
+| Enrique Cervantes | *Enrique Cervantes* | 08/29/2024 |
