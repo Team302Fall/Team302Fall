@@ -2,8 +2,8 @@ For our design ideation, each member started by creating ideas they thought woul
 
 We judged, it primarily by our user needs and what we found as viable within our skill level and time deadliness. 
 
-Design 1
+Design 1 ![design1](./images/image.png)
 
-Design 2
+Design 2 ![desing2](./images/image.png)
 
-Design 3
+Design 3 ![HOI3](./images/image.png)
