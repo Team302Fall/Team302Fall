@@ -14,7 +14,6 @@ Morphological generated prompt: *An environmental measuring device for the fruit
 
 The temperature sensor would monitor the ambient air temperature while the moisture sensor tracks soil moisture levels. The data would help farmers make informed decisions about the required irrigation and crop management. The solar-powered battery would ensure continuous operation without needing frequent recharging, making it highly efficient for large scale farming.
  
-
 **Design 2. A Micro Greenhouse** 
 
 ![](micro_greenhouse.jpg)
@@ -22,7 +21,6 @@ The temperature sensor would monitor the ambient air temperature while the moist
 *A micro greenhouse blueprint for the conservation sector moisture sensor with a humidity sensor that has a motor that is powered by rechargeable battery with a plant aesthetic that rotates.*
 
 The moisture sensor would track soil moisture levels to ensure the plants inside gets enough water, while the humidity sensor would monitor the air moisture to keep the environment optimal for plant growth. Data from these sensors could trigger alerts or automatic adjustments like turning on a small fan or adding water. The micro greenhouse could also have a small display or interface to show real-time data on moisture and humidity levels.
-
 
 **Design 3 An Automated Watering Pump**
 
