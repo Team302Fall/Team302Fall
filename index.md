@@ -8,7 +8,7 @@ Portable Weather Hub Project:
 
 [User Needs](UserNeedsSubpage.md)
 
-[Design Ideation](DesignIDeation/DesignSubpage.md)
+[Design Ideation](DesignIdeation/DesignSubpage.md)
 
 
 
