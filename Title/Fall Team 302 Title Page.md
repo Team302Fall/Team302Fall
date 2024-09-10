@@ -1,7 +1,7 @@
 # Team 302 Evol Greenery
 ## Magic Weather Box
 ### Team 302
-Kyle Chin, Damian Damato, Enrique Cervantes, Rishik
+Kyle Chin, Damian Damato, Enrique Cervantes, Rishik Atluri
 
 ### Innovation Showcase:
 December 6th 2024
