@@ -6,7 +6,11 @@ Portable Weather Hub Project:
 
 [Team Organization](TeamOrganization/TeamOrgSubpage.md)
 
-Design ideation link placeholder
+[User Needs](UserNeedsSubpage.md)
+
+[Design Ideation](DesignIDeation/DesignSubpage.md)
+
+
 
 TBA.....
 
