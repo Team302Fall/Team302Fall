@@ -99,5 +99,5 @@ The team members agree to the following process for resolving conflicts with oth
 |--------|--------------|-------|
 | Damien D'amato | *Damien D'Amato* | 08/26/2024 |
 | Kyle Chin | *Kyle Chin* | 08/28/2024 |
-| Rishik Atluri | Rishik Atluri | 08/28/2024 |
+| Rishik Atluri | *Rishik Atluri* | 08/28/2024 |
 | Enrique Cervantes | *Enrique Cervantes* | 08/29/2024 |
