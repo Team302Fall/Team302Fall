@@ -12,5 +12,15 @@ Damien, Kyle, Rishik, Enrique
 
 [Design Ideation](DesignIdeation/DesignSubpage.md)
 
+[Block Diagram](DesignIdeation/DesignSubpage.md)
+
+[Component Selection](ComponentSelection/CompSelecSubpage.md)
+
+[Microcontroller Selection](MicrocontrollerSelection/MicrocontrollerSelectSubpage.md)
+
+[Software Proposal](HardwareProposal/HardwareProposalSubpage.md)
+
+[Hardware Proposal](DesignIdeation/DesignSubpage.md)
+
 [Presentation](Presentation1/Team302PresentationVideo.md)
 
