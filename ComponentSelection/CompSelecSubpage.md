@@ -1,4 +1,5 @@
 table 1
+
 | Name | First Communication Choice | Second Communication Choice |
 |------|----------------------------|-----------------------------|
 | Kyle Chin | Discord| Text | 
@@ -11,6 +12,7 @@ Rational: Though the motor for the product is embedded within a fan and chassis,
 
 
 table 2
+
 | Name | First Communication Choice | Second Communication Choice |
 |------|----------------------------|-----------------------------|
 | Kyle Chin | Discord| Text | 
@@ -24,6 +26,7 @@ When choosing which component to use, option 1 is the most reasonable choice. Th
  
 
 table 3
+
 | Name | First Communication Choice | Second Communication Choice |
 |------|----------------------------|-----------------------------|
 | Kyle Chin | Discord| Text | 
@@ -33,6 +36,7 @@ table 3
 
 
 table 3
+
 | Name | First Communication Choice | Second Communication Choice |
 |------|----------------------------|-----------------------------|
 | Kyle Chin | Discord| Text | 
@@ -41,6 +45,7 @@ table 3
 | Rishik Atluri | Snapchat | Discord | 
 
 table 4
+
 | Name | First Communication Choice | Second Communication Choice |
 |------|----------------------------|-----------------------------|
 | Kyle Chin | Discord| Text | 
@@ -49,6 +54,7 @@ table 4
 | Rishik Atluri | Snapchat | Discord | 
 
 table 5
+
 | Name | First Communication Choice | Second Communication Choice |
 |------|----------------------------|-----------------------------|
 | Kyle Chin | Discord| Text | 
