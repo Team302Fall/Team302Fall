@@ -10,7 +10,7 @@
 |Other Required Built-In Features?|none. preferably comes with sleep mode|                 4 low power modes|          x|      x|
 |Additional considerations |none|                 x|          x|      x|
 |Part Number|                                              ---|                 PIC24F16KM204|          PIC24FJ64GA002-I/SS|      PIC16F18855|
-|Link (URL) to product page|                               ---|                 [Link](https://www.digikey.com/en/products/detail/microchip-technology/pic24fv16km204-i-pt/3872920)|          [LINK](URL)|      [LINK](URL)|
+|Link (URL) to product page|                               ---|                 [l](https://www.digikey.com/en/products/detail/duracell-industrial-operations-inc/AA-NIMH-DURACELL/16164081) |          [LINK](URL)|      [LINK](URL)|
 |Links (URL) to Data Sheets|                               ---|                 [FAMILY DATA SHEET](URL)|          [FAMILY DATASHEET](URL)|      [FAMILY DATASHEET](URL)|
 |Links (URL) to Application Notes|                         ---|                 [LINK](URL) [LINK](URL) [LINK](URL) [LINK](URL) [LINK](URL) [LINK](URL) [LINK](URL) [LINK](URL) [LINK](URL) | [LINK](URL) [LINK](URL) [LINK](URL) [LINK](URL) [LINK](URL)|      [LINK](URL) [LINK](URL) [LINK](URL)|
 |Links (URL) to Code Examples|                             ---|                 [LINK](URL)|          [LINK](URL)|      [LINK](URL)|
