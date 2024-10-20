@@ -2,9 +2,9 @@ Motor (Kyle C)
 
 | Component | Pro's | Cons |
 |------|----------------------------|-----------------------------|
-| SE10G0UTMAF | Simplistic data sheet. Torque charts show amperage per torque. Speed reaches almost about 11100 min with no load.| Component chassis is small. Shaft too small to operate around. Data sheet missing data such as operating temperature| 
-| SE8G0NTMCA | Easy to mount (can be placed anywhere on the product). Gives details about how much power the motor can operate. No load speed at 12500 mins| Component chassis is small. Shaft too small to operate around. Data sheet too simplistic, showing only one version of the component and it’s data | 
-| ***F17FA-03MC*** | ***Data sheet includes detailed specs on the fans operation. Requires little power to operate. No need for high voltage. Gives data about the static pressure vs airflow.***| ***Components have pre-made fan/chassis. Limited placement on product. Fan data sheet seems to be too simplistic. No information about reverse direction.***| 
+| ![oops](motor%201.png)SE10G0UTMAF  | Simplistic data sheet. Torque charts show amperage per torque. Speed reaches almost about 11100 min with no load.| Component chassis is small. Shaft too small to operate around. Data sheet missing data such as operating temperature| 
+| ![oops](motor2.png) SE8G0NTMCA | Easy to mount (can be placed anywhere on the product). Gives details about how much power the motor can operate. No load speed at 12500 mins| Component chassis is small. Shaft too small to operate around. Data sheet too simplistic, showing only one version of the component and it’s data | 
+| ![oops](motor%201.png)***F17FA-03MC*** | ***Data sheet includes detailed specs on the fans operation. Requires little power to operate. No need for high voltage. Gives data about the static pressure vs airflow.***| ***Components have pre-made fan/chassis. Limited placement on product. Fan data sheet seems to be too simplistic. No information about reverse direction.***| 
 
 Chosen Component: Option 3
 
@@ -16,9 +16,9 @@ Motor Controller (Kyle C)
 
 | Component | Pro's | Cons |
 |------|----------------------------|-----------------------------|
-| ***IFX9201SGAUMA1*** |  ***Reliable component (used in previous assignment). Includes over temp shutdown mechanic. Gives Simple understanding of what each pin does. Includes commands for motor operation.***| ***Register commands are complicated to understand without some sort of guidence. Surface mount prongs are small and compact to each other. Requires only certain prongs to be connected to operate properly.***| 
-| DRV8876PWPR | Includes a proper chart of pins and what each pin does. Operation conditions are noted and shown for guidance. Includes logic for forward and reverse drive.Most cost effective component out of the 3| Component requires solder paste mounting. Temperature ranges are small for comfort. Pin connection requires further inspection | 
-| A3950SLPTR-T | Includes typical application Diagrams. Showcases Load conditions with Oscilloscope images. Includes drive currents and equations for it.***|***Component requires solder paste mounting. Package has a low thermal resistance. Power voltage higher than necessary.| 
+| ![oops](driver1.png)***IFX9201SGAUMA1*** |  ***Reliable component (used in previous assignment). Includes over temp shutdown mechanic. Gives Simple understanding of what each pin does. Includes commands for motor operation.***| ***Register commands are complicated to understand without some sort of guidence. Surface mount prongs are small and compact to each other. Requires only certain prongs to be connected to operate properly.***| 
+| ![oops](Driver2.png)DRV8876PWPR | Includes a proper chart of pins and what each pin does. Operation conditions are noted and shown for guidance. Includes logic for forward and reverse drive.Most cost effective component out of the 3| Component requires solder paste mounting. Temperature ranges are small for comfort. Pin connection requires further inspection | 
+| ![oops](Driver3.png)A3950SLPTR-T | Includes typical application Diagrams. Showcases Load conditions with Oscilloscope images. Includes drive currents and equations for it.***|***Component requires solder paste mounting. Package has a low thermal resistance. Power voltage higher than necessary.| 
 
 Chosen Component: Option 1
 
@@ -29,9 +29,9 @@ Humidity Sensor (Enrique C)
 
 | Component | Pro's | Cons |
 |------|----------------------------|-----------------------------|
-| ENS211-LQFM |This humidity sensor is extremely cheapDoes not require extra considerationsCheapest optionLow response time @ 3 secConsumes less voltage| Surface mount does not have pinsNo extra pins for alerts| 
-| HIH6030-021-001 | Surface mounting pins No extra considerations requireMiddle priceHas two extra pins for alerts | Consumes more voltage than cheaper oneHas lower accuracy @ +- 4.5%Higher response time @ 6 sec | 
-| ***HIH7130-000-001*** | ***Better accuracy @ +- 3% than the middle priced one Consumes less voltage than HIH6030Surface mount pinsHas two extra pins for alerts*** | ***Most expensive out of the threeHigher response time @ 6 sec***| 
+| ![oops](hum1.png)ENS211-LQFM |This humidity sensor is extremely cheapDoes not require extra considerationsCheapest optionLow response time @ 3 secConsumes less voltage| Surface mount does not have pinsNo extra pins for alerts| 
+| ![oops](hum2.png)HIH6030-021-001 | Surface mounting pins No extra considerations requireMiddle priceHas two extra pins for alerts | Consumes more voltage than cheaper oneHas lower accuracy @ +- 4.5%Higher response time @ 6 sec | 
+| ![oops](hum3.png)***HIH7130-000-001*** | ***Better accuracy @ +- 3% than the middle priced one Consumes less voltage than HIH6030Surface mount pinsHas two extra pins for alerts*** | ***Most expensive out of the threeHigher response time @ 6 sec***| 
 
 Chosen Component: Option 3
 
@@ -42,9 +42,9 @@ Temperature Sensor (Rishik A)
 
 | Component | Pro's | Cons |
 |------|----------------------------|-----------------------------|
-| TS-3032-C7-QA |Cost-effective. I2C output .Within Voltage Operation Range (3.3V). Digital| Smallest temperature sensing range. More complex calibration is required for higher precision. More expensive than the average temp sensors.| 
-| ***TMP1075DGKR*** | ***Within Voltage Operation Range (3.3V). Greatest Temperature sensing range. Digital. Uses a standard I2C protocol which makes integration with microcontrollers easier.***| ***Temperature readings may become slightly less precise at the extremes of its operational range. Cannot withstand harsh conditions like high humidity, dust or outdoor use.*** | 
-| P3T1755DPZ | Extremely cost effective. Flexibility with output types (I2C, 2-Wire Serial). Surface mount. Very wide temperature operating range. Within Voltage Operation Range (3.3V). Digital| Very small in size.  Moderate accuracy. Lack of integrated features. Sensitive to power supply fluctuations.|  
+| ![oops](tem1.png)TS-3032-C7-QA |Cost-effective. I2C output .Within Voltage Operation Range (3.3V). Digital| Smallest temperature sensing range. More complex calibration is required for higher precision. More expensive than the average temp sensors.| 
+| ![oops](tem2.png)***TMP1075DGKR*** | ***Within Voltage Operation Range (3.3V). Greatest Temperature sensing range. Digital. Uses a standard I2C protocol which makes integration with microcontrollers easier.***| ***Temperature readings may become slightly less precise at the extremes of its operational range. Cannot withstand harsh conditions like high humidity, dust or outdoor use.*** | 
+| ![oops](tem3.png)P3T1755DPZ | Extremely cost effective. Flexibility with output types (I2C, 2-Wire Serial). Surface mount. Very wide temperature operating range. Within Voltage Operation Range (3.3V). Digital| Very small in size.  Moderate accuracy. Lack of integrated features. Sensitive to power supply fluctuations.|  
 
 Chosen Component: Option 2
 
@@ -56,9 +56,9 @@ Battery (Damien D)
 
 | Component | Pro's | Cons |
 |------|----------------------------|-----------------------------|
-| NH22NBP |Meets ideal power requirements. Rechargeable| Not cost effective. Low current production (175mAh). Not Scalable| 
-| ***AA-NIMH-DURACELL*** | ***Rechargeable Scalable Voltage. Common to find in local stores. Very high current capacity ( 2500mAH). Cost effective***| ***Scaling is space intensive. Scaling requires increased complexity*** | 
-| A1604 BK210J | Meets ideal power requirements. High current capacity (614mAh). Cost effective| Single use. Not Scalable| 
+| ![oops](bat1.png)NH22NBP |Meets ideal power requirements. Rechargeable| Not cost effective. Low current production (175mAh). Not Scalable| 
+| ![oops](bat2.png)***AA-NIMH-DURACELL*** | ***Rechargeable Scalable Voltage. Common to find in local stores. Very high current capacity ( 2500mAH). Cost effective***| ***Scaling is space intensive. Scaling requires increased complexity*** | 
+| ![oops](bat3.png)A1604 BK210J | Meets ideal power requirements. High current capacity (614mAh). Cost effective| Single use. Not Scalable| 
 
 Chosen Component: Option 2
 
@@ -68,9 +68,9 @@ Voltage Regulator (Damien D)
 
 | Component | Pro's | Cons |
 |------|----------------------------|-----------------------------|
-| TPS562201DDCR |Cost effective. Can handle high current if necessary (4A). Step down allows for use of higher voltage| Minimum input voltage is on higher end (4.5V)| 
-| ***AZ34063UMTR-G1*** | ***Cost effective ($0.34). Dual step up, step down functionality. Large input voltage range (3V to 35V). Large current output (1.5A)***| ***Increased complexity*** | 
-| AP3015KTR-G1 | Step down allows for use of lower voltage. Large output voltage range (1.25V-34V)| Very low output current. Not cost effective ($0.54 the most expensive)| 
+| ![oops](reg1.png)TPS562201DDCR |Cost effective. Can handle high current if necessary (4A). Step down allows for use of higher voltage| Minimum input voltage is on higher end (4.5V)| 
+| ![oops](reg2.png)***AZ34063UMTR-G1*** | ***Cost effective ($0.34). Dual step up, step down functionality. Large input voltage range (3V to 35V). Large current output (1.5A)***| ***Increased complexity*** | 
+| ![oops](reg3.png)AP3015KTR-G1 | Step down allows for use of lower voltage. Large output voltage range (1.25V-34V)| Very low output current. Not cost effective ($0.54 the most expensive)| 
 
 Chosen Component: Option 2
 
