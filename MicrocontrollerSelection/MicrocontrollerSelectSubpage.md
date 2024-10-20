@@ -1,8 +1,8 @@
 
 
-| DESIGN CONSIDERATIONS | PROJECT SPECIFIC REQUIRMENTS | PIC 1 (PIC24FV16KM204-I/PT)            | PIC 2     | PIC 3 | 
-|-----------------------|---------------------------------------|------------------|-----------|-------|
-|How many GPIO Pins?|   (4)temp sensor + (4)humidity sensor + (2)esp32 + (4)subsystem debug LED +(7) -motor driver +(3) Programmer = 24 total GPIO PINs |37|          21|      36|
+| DESIGN CONSIDERATIONS | PROJECT SPECIFIC REQUIRMENTS | PIC 1 (PIC24FV16KM204-I/PT)            | PIC 2 (PIC24FJ64GA002)    | PIC 3 (PIC16F18855) | 
+|-----------------------|---------------------------------------------------|------------------|-----------|-------|
+|How many GPIO Pins?|   (4)temp sensor + (4)humidity sensor + (2)esp32 + (4)subsystem debug LED + (7)motor driver +(3) Programmer = 24 total GPIO PINs |37|          21|      36|
 |Built-in Analog to Digital Converter? How many?|none|                 2|          13|      29|
 |Built-in Hardware PWM? How many?|1 PWM for motor driver|                 5|          5|      4|
 |Built-in I2C? SPI? How many?|3 I2C for temp and humidity sensor, 1 SPI|                2|          2|      2|
