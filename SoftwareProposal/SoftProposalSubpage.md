@@ -1,3 +1,3 @@
 # Team 302 Software Proposal
-![](314SoftwareProposal.drawio.png)
+![](314SP.pdf)
 # Main Loop
