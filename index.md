@@ -18,9 +18,9 @@ Damien, Kyle, Rishik, Enrique
 
 [Microcontroller Selection](MicrocontrollerSelection/MicrocontrollerSelectSubpage.md)
 
-[Software Proposal](HardwareProposal/HardwareProposalSubpage.md)
+[Software Proposal](SoftwareProposal/SoftProposalSubpage.md)
 
-[Hardware Proposal](DesignIdeation/DesignSubpage.md)
+[Hardware Proposal](HardwareProposal/HardwareProposalSubpage.md)
 
 [Presentation](Presentation1/Team302PresentationVideo.md)
 
