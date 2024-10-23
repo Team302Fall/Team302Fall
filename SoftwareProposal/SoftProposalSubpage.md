@@ -5,6 +5,11 @@
 ![](main.PNG)
 
 # Sensor Failure/Warning
-![](main.PNG)
+![](failure.PNG)
 
 # Component Functions
+![](debug.PNG)
+![](int.PNG)
+![](read.PNG)
+![](motor1.PNG)
+![](motor2.PNG)
