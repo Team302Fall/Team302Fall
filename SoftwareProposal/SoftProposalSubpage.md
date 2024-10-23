@@ -1,2 +1,2 @@
-![](software%20proposal%20screenshot.jpg)
+![](314SoftwareProposal.drawio.png)
 
