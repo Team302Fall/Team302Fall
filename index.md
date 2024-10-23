@@ -12,7 +12,7 @@ Damien, Kyle, Rishik, Enrique
 
 [Design Ideation](DesignIdeation/DesignSubpage.md)
 
-[Block Diagram](DesignIdeation/DesignSubpage.md)
+[Block Diagram](BlockDiagram/BlockSubpage.md)
 
 [Component Selection](ComponentSelection/CompSelecSubpage.md)
 
