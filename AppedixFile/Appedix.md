@@ -1,4 +1,6 @@
 
+COMPONENT SELECTION 
+
 Motor (Kyle C)
 
 | Component | Pro's | Cons |
@@ -82,3 +84,7 @@ Using a step up is a possible route as well which occurs with option 3 and 2. Th
 Considering that option 2 gives us the ability to pursue both the step up and down route with superior specs all for less money, this makes option 2 the best selection for our design
 
 ![Power Budget](PlanoDeEnergiaFinal.png)
+
+MICROCONTROLLER
+
+
