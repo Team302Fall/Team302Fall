@@ -8,7 +8,7 @@ We judged, it primarily by our user needs and what we found as viable within our
 
 **Design 1. An Agricultural Monitoring robot**
 
-![](Robot_Design.jpg)
+![](Robot_design.jpg)
 
 Morphological generated prompt: *An environmental measuring device for the fruit farming sector that utilizes a temp and moisture sensor, that has a motor powered by a solar rechargeable battery with a minimalist aesthetic that drives.*
 
