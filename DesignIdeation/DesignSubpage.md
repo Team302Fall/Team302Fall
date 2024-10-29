@@ -6,15 +6,7 @@ With such a plethora of options, our team decided to start getting specifc about
 
 We judged, it primarily by our user needs and what we found as viable within our skill level and time deadliness. Due to our morphological chart, it did generate a prompt that we could theoretically use in an AI software to give us a rapid prototype image for our proposed project. And our team pursued that option, giving us the following designs: 
 
-**Design 1. An Agricultural Monitoring robot**
-
-![](Robot_design.jpg)
-
-Morphological generated prompt: *An environmental measuring device for the fruit farming sector that utilizes a temp and moisture sensor, that has a motor powered by a solar rechargeable battery with a minimalist aesthetic that drives.*
-
-The temperature sensor would monitor the ambient air temperature while the moisture sensor tracks soil moisture levels. The data would help farmers make informed decisions about the required irrigation and crop management. The solar-powered battery would ensure continuous operation without needing frequent recharging, making it highly efficient for large scale farming.
- 
-**Design 2. A Micro Greenhouse** 
+**Design 1. A Micro Greenhouse** 
 
 ![](micro_greenhouse.jpg)
 
@@ -22,6 +14,18 @@ Morphological generated prompt: *A micro greenhouse blueprint for the conservati
 
 The moisture sensor would track soil moisture levels to ensure the plants inside gets enough water, while the humidity sensor would monitor the air moisture to keep the environment optimal for plant growth. Data from these sensors could trigger alerts or automatic adjustments like turning on a small fan or adding water. The micro greenhouse could also have a small display or interface to show real-time data on moisture and humidity levels.
 
+
+
+**Design 2. An Agricultural Monitoring robot**
+
+![](Robot_design.jpg)
+
+Morphological generated prompt: *An environmental measuring device for the fruit farming sector that utilizes a temp and moisture sensor, that has a motor powered by a solar rechargeable battery with a minimalist aesthetic that drives.*
+
+The temperature sensor would monitor the ambient air temperature while the moisture sensor tracks soil moisture levels. The data would help farmers make informed decisions about the required irrigation and crop management. The solar-powered battery would ensure continuous operation without needing frequent recharging, making it highly efficient for large scale farming.
+
+
+ 
 **Design 3 An Automated Watering Pump**
 
 ![](pump_pic.jpg)
@@ -30,3 +34,11 @@ Morphological generated prompt: *An environmental measuring device for the veggi
 
 The temp sensor would track air temperature ensuring that the crops remain within the ideal temperature ranges for growth. The humidity sensor would help manage air moisture which is crucial for many vegetable crops. The pump would be activated to irrigate the crops or to mist the air if humidity levels drop too low.
 
+
+
+**Our Selected Design: The Micro-Greenhouse**
+
+![](micro_greenhouse.jpg)
+
+Include a short summary of the decision-making process your team used to pick one of the team's design concepts. Did you further combine good ideas from your design ideation? Did you select the best? How was the decision made?
+For the focus of our project. Our team decided to pick the Micro-Greenhouse. 
