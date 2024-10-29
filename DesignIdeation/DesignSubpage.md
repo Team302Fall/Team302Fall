@@ -40,5 +40,4 @@ The temp sensor would track air temperature ensuring that the crops remain withi
 
 ![](micro_greenhouse.jpg)
 
-Include a short summary of the decision-making process your team used to pick one of the team's design concepts. Did you further combine good ideas from your design ideation? Did you select the best? How was the decision made?
-For the focus of our project. Our team decided to pick the Micro-Greenhouse. 
+For the focus of our project. Our team decided to pick the Micro-Greenhouse. We found that it was the best design within the skill level of our team and matched the vast majority of all our passive, active and cosmetic user needs. It also was a device that allowed the greatest flexibility for potential upgrades and blends of other ideas. For instance, Design 3 was a very attractive option for our team, but we found that a watering pump could be easily added to  Design 1 if deadlines allowed, making a more comprehensive and capable design. Such would not be the case the other way around if we chose to start with design 3. Overall, these factors lead to Design 1 as our teams pursuit.   
