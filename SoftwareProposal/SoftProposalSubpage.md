@@ -2,14 +2,14 @@
 ![](314SP.drawio.png)
 
 # Main Loop
-![](main.PNG)
-
-# Sensor Failure/Warning
-![](failure.PNG)
+![](mainloop1.PNG)
+![](mainloop2.PNG)
+![](mainloop3.PNG)
 
 # Component Functions
 ![](debug.PNG)
-![](int.PNG)
+![](sysinit1.PNG)
+![](sysinit2.PNG)
 ![](read.PNG)
 
 ![](motor1.PNG)
