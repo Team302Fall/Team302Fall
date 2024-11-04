@@ -1,7 +1,7 @@
 # Software Proposal
 
 ## Main Loop
-![](mainloop.PNG)
+![](mainloop.png)
 
 ## Component Functions
 ![](debug.PNG)
