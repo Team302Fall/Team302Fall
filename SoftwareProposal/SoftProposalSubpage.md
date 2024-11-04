@@ -3,7 +3,7 @@
 
 # Main Loop
 ![](mainloop1.PNG)
-  ![](mainloop2.PNG)
+    ![](mainloop2.PNG)
 ![](mainloop3.PNG)
 
 # Component Functions
