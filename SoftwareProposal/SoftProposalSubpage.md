@@ -3,12 +3,14 @@
 ## Main Loop
 ![](mainloop.png)
 
-## Component Functions
+## Debugging Block
 ![](debug.PNG)
-![](sysinit1.PNG)
-![](sysinit2.PNG)
+
+## System Initialization Block
+![](systeminit.png)
+
+## Sensor Read Block
 ![](read.PNG)
 
-![](motor1.PNG)
-
-![](motor2.PNG)
+## Motor Run Block
+![](motor.png)
