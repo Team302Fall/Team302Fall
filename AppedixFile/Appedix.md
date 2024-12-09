@@ -126,7 +126,11 @@ Our team chose the PIC24F16KM204 (PIC 1) as our primary option due to its favora
 ![BOM](Fall2024BOM.PNG)
 
 ## PCB Board
+### Front
+![PCBBoardFront](IMG_7620.jpg)
 
+### Back
+![PCBBoardFront](IMG_7621.jpg)
 
 
 
