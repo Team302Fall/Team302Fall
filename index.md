@@ -24,3 +24,5 @@ Damien, Kyle, Rishik, Enrique
 
 [Presentation](Presentation1/Team302PresentationVideo.md)
 
+[Appendix](AppedixFile/Appedix.md)
+
