@@ -127,12 +127,10 @@ Our team chose the PIC24F16KM204 (PIC 1) as our primary option due to its favora
 
 ## PCB Board
 ### Front
-![PCBBoardFront](IMG_7620.jpg)
-![PCBBoardAllegroTop](PCBTopAllegro.PNG)
+![PCBBoardFront](IMG_7620.jpg) ![PCBBoardAllegroTop](PCBTopAllegro.PNG)
 
 ### Back
-![PCBBoardFront](IMG_7621.jpg)
-![PCBBoardAllegroBottom](PCBBottomAllegro.PNG)
+![PCBBoardFront](IMG_7621.jpg) ![PCBBoardAllegroBottom](PCBBottomAllegro.PNG)
 
 
 
