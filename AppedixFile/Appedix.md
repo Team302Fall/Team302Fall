@@ -125,6 +125,8 @@ Our team chose the PIC24F16KM204 (PIC 1) as our primary option due to its favora
 ## Bill Of Materials (BOM)
 ![BOM](Fall2024BOM.PNG)
 
+## PCB Board
+
 
 
 
