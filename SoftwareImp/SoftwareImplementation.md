@@ -1,3 +1,0 @@
----
-# Software Implementation goes here
----
