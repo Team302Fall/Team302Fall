@@ -2,4 +2,4 @@
 # Hardware Implementation
 
 ## Team Board
-![Team Schematic](HardwardImp/FinalSchematic.PNG)
+![Team Schematic](FinalSchematic.PNG)
