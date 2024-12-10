@@ -3,6 +3,10 @@ Our team's software offers a streamlined solution for users to monitor and contr
 ## Main Loop
 Below is the final diagram illustrating how our code interacts with the PCB. Each section of the diagram, outlined in bold font, represents a distinct block providing more details about its specific functionality.
 
+Due to time constraints and issues with the PCB not functioning properly, we had to remove the debugging and low-power features from the final diagram. These features could not be implemented within the available timeframe.
+
+The original design included a debugging block (located at the bottom of the diagram) to verify communication between the sensors, the H-bridge, and the MCU. Additionally, a low-power design was planned but could not be implemented due to challenges in understanding how to code it with our PCB setup.
+
 ![](FinalMain.drawio.png)
 
 ## System Initialization Block
