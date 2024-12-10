@@ -132,6 +132,80 @@ Our team chose the PIC24F16KM204 (PIC 1) as our primary option due to its favora
 ### Back
 ![PCBBoardFront](IMG_7621.jpg) ![PCBBoardAllegroBottom](PCBBottomAllegro.PNG)
 
+## Topic Table
+![TopicTable](table.PNG)
+
+## MPLab X Code
+/**
+  Section: Included Files
+*/
+#include "mcc_generated_files/system.h"
+#include "mcc_generated_files/mssp2_i2c.h"
+#include "mcc_generated_files/mssp1_spi.h"
+#include "mcc_generated_files/uart1.h"
+#include "mcc_generated_files/clock.h"
+#include "mcc_generated_files/pin_manager.h"
+#include "mcc_generated_files/tmr1.h"
+
+// Variables 
+uint8_t Temp = 0;
+uint8_t data;
+uint8_t fwd = 0b11101111;
+uint8_t off = 0b11111000;
+uint8_t length = 8;
+uint8_t regs = 0x0;
+uint8_t address= 0b1001100;
+uint8_t *pstatus = 0;
+
+int main(void)
+{
+    // initialize the device
+    SYSTEM_Initialize();
+    //TMR1_Initialize();
+    PIN_MANAGER_Initialize ();
+    MSSP1_SPI_Initialize();
+    MSSP2_I2C_Initialize();
+    UART1_Initialize();
+    
+    // Set Motor H-Bridge to not receive data
+    CSN_SetHigh();
+    while (1)
+    {
+     
+      // Read temperature from the sensor
+       MSSP2_I2C_MasterRead(
+                                Temp,
+                                length,
+                                regs,
+                                *pstatus);
+       // Check if temp is higher than 68 F or 20 C
+        if(Temp >= 20)
+        {
+        // Set H-Bridge to be able to receive data
+        CSN_SetLow();
+        // Send Data via MSSP1 to set motor to start
+        MSSP1_SPI_Exchange8bit(fwd);
+        __delay_ms(1000);
+        // Set H-Bridge not receive data
+        CSN_SetHigh();
+        if(Temp < 20)
+        {
+            // Enable receive data 
+            CSN_SetLow();
+            // Set Motor to off
+            MSSP1_SPI_Exchange8bit(off);
+            // Disable receive data
+            CSN_SetHigh();
+            
+        }
+        }
+ 
+    };
+    return 1;
+}
+/**
+ End of File
+*/
 
 
 
