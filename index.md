@@ -18,7 +18,7 @@ Damien, Kyle, Rishik, Enrique
 
 [Microcontroller Selection](MicrocontrollerSelection/MicrocontrollerSelectSubpage.md)
 
-[Hardware Implementationl](HardwareProposal/FinalHardwareImplementation.md)
+[Hardware Implementation](HardwareProposal/FinalHardwareImplementation.md)
 
 [Software Proposal](SoftwareProposal/SoftProposalSubpage.md)
 
