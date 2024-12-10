@@ -22,6 +22,8 @@ Damien, Kyle, Rishik, Enrique
 
 [Software Proposal](SoftwareProposal/SoftProposalSubpage.md)
 
+[System Verification](SystemVeri/SystemVerification.md)
+
 [Presentation](Presentation1/Team302PresentationVideo.md)
 
 [Appendix](AppedixFile/Appedix.md)
