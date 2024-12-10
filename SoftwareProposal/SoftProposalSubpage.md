@@ -24,8 +24,14 @@ This block evaluates the temperature data to decide whether the motor should be 
 
 ![](motor.png)
 
-## Original Diagram
-This is the original diagram we planned to implement, but changes were necessary due to time constraints and issues with our PCB.
+## Original Diagram & Version 2.0
+This is the original diagram we planned to implement, but changes were necessary due to time constraints and issues with our PCB. If we had not encountered issues with our PCB, we would have liked to include the debugging and low-power features to make our product more user-friendly and power-efficient.
+
+For the low-power feature, the goal was to have the product activate only when pinged by either the temperature or humidity sensor. The respective datasheets included sections on low-power modes, but I was unable to fully understand how to implement these features in our code. Ideally, the temperature sensor would activate only when the temperature exceeded a set threshold, while the humidity sensor would ping the MCU if humidity dropped below 30% or exceeded 40%. If the temperature rose above 25°C, the MCU would turn on the motor to reduce heat and bring in fresh air from outside the greenhouse.
+
+This approach was intended to maximize power efficiency by minimizing unnecessary operations, which is critical since the product relies on batteries. The goal was to extend battery life as much as possible.
+
+The debugging feature, on the other hand, would allow customers to easily verify that everything was functioning correctly without needing much—if any—technical knowledge about how the sensors or motor communicate with the MCU. I believe this feature would have been a key selling point, as it simplifies setup and ensures the product works as expected before installation in the greenhouse.  
 
 ![](mainloop.png)
 
