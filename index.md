@@ -24,6 +24,10 @@ Damien, Kyle, Rishik, Enrique
 
 [System Verification](SystemVeri/SystemVerification.md)
 
+[Lessons Learned](LessonsLearned/Paper.md)
+
+[Reccommendations for Future Students](RecforFuture/Students.md)
+
 [Presentation](Presentation1/Team302PresentationVideo.md)
 
 [Appendix](AppedixFile/Appedix.md)
