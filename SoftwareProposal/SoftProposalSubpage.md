@@ -24,5 +24,12 @@ This block evaluates the temperature data to decide whether the motor should be 
 
 ![](motor.png)
 
+## Original Diagram
+This is the original diagram we planned to implement, but changes were necessary due to time constraints and issues with our PCB.
+
+![](mainloop.png)
+
 ## Debugging Block
+The debugging block was designed to use a single button to verify communication between the sensors and the MCU. It would change the state of a multi-color LED to indicate the status of each peripheral being checked. For example, if the temperature sensor was functioning correctly, the LED would turn blue. If the sensor was not working, the LED would turn red to signal an issue. This process was planned for all components communicating with the MCU, except for the ESP32. Each component would have a designated color, with red universally indicating a communication failure.
+
 ![](debug.PNG)
