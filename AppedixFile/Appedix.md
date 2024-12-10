@@ -136,6 +136,7 @@ Our team chose the PIC24F16KM204 (PIC 1) as our primary option due to its favora
 ![TopicTable](table.PNG)
 
 ## MPLab X Code
+```c
 /**
   Section: Included Files
 */
@@ -206,6 +207,6 @@ int main(void)
 /**
  End of File
 */
-
+```
 
 
