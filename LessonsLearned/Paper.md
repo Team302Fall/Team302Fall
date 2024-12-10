@@ -1,0 +1,3 @@
+# Lessons Learned
+
+When it comes to the comes to the lessons learned from this project, one of the many lessons to take from this is understanding how your component works. When it came down to the components used for this project out team made the mistake of overlooking not only the command fuction of the components, but also the pad placement of them as well. One member used a component that had pins of the components that were to close, causing the footprint of the component to have continuity errors during the building process of the board. Another component that ran into a problem was one that originally we thought was a I2C component, but later found out that the component was a MSSP programming component.
