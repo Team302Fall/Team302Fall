@@ -20,7 +20,7 @@ Damien, Kyle, Rishik, Enrique
 
 [Hardware Implementation](HardwareProposal/FinalHardwareImplementation.md)
 
-[Software Proposal](SoftwareProposal/SoftProposalSubpage.md)
+[Software Implementation](SoftwareProposal/SoftProposalSubpage.md)
 
 [System Verification](SystemVeri/SystemVerification.md)
 
